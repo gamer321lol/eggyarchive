@@ -1,2 +1,2 @@
-# eggyarchive videos
-archiveing random videos and eggdog videos sometime sooner or later
+# eggyarchive software
+archiveing random software sometime sooner or later
