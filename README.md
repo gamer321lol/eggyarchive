@@ -1,2 +1,2 @@
-# eggyarchive audio
-archiveing random software sometime sooner or later
+# eggyarchive
+archiveing stuff sometime sooner or later
